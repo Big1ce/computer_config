@@ -1,0 +1,6 @@
+rufus —— 制作系统镜像启动盘
+hashmyfiles —— 计算hash值
+spacesniffer —— 可视化展示硬盘已用空间与剩余空间
+TrafficMonitor —— 任务栏系统监控
+HEVC_video_extension —— HEVC解码
+Rainmeter —— 桌面控件
