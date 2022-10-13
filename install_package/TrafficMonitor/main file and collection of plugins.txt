@@ -1,1 +1,2 @@
-
+After downloading, put the plugin file：xxx.dll into the plugins directory of the directory where TrafficMonitor.exe is located (if not, please create it)
+Then restart TrafficMonitor, the plugin will be loaded automatically.
