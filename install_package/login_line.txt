@@ -1,0 +1,5 @@
+#Right
+curl 'http://10.3.8.211/login' --data 'user=2018xxx&pass=yourpassword'
+
+#Wrong, but why?
+curl 'http://10.3.8.211/login' --data 'user=2021xxx&pass=mypass'
